@@ -8,7 +8,7 @@
 
 function returnIndexNo() {
     let arr = [1, 3, 4, 10, , 35, 7, 70, 9, 10];
-    let value = 0;
+    let value = 70;
     for (let i = 0; i < arr.length; i++) {
         if (arr[i] == value) {
             return i;
