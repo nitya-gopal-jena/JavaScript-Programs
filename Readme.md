@@ -8,11 +8,11 @@ This repository contains JavaScript practice programs organized by topic. Below 
 
 | Question No. | File Name     | Description                                           |
 | ------------ | ------------- | ----------------------------------------------------- |
-| Q1           | `program1.js` | return the first non repeat element from an array     |
-| Q2           | `program2.js` | returns the largest number from an array              |
-| Q3           | `program3.js` | check if an array is sorted in ascending order or not |
-| Q4           | `program4.js` | returns the index of a given value in an array        |
-| Q5           | `program5.js` | reversed an array elements                            |
+| Q1           | `program1.js` | Return the first non repeat element from an array     |
+| Q2           | `program2.js` | Returns the largest number from an array              |
+| Q3           | `program3.js` | Check if an array is sorted in ascending order or not |
+| Q4           | `program4.js` | Returns the index of a given value in an array        |
+| Q5           | `program5.js` | Reversed an array elements                            |
 
 ---
 
