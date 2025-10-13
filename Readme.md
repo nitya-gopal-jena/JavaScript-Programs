@@ -4,6 +4,37 @@ This repository contains JavaScript practice programs organized by topic. Below 
 
 ---
 
+# 🛠️ Using `prompt-sync` in Node.js
+
+This guide shows you how to use the `prompt-sync` package to take user input in a Node.js environment — similar to the `prompt()` function in browsers.
+
+---
+
+## Step 1: Initialize Your Project
+
+If you haven't already, create a new Node.js project:
+
+```bash
+npm init -y
+
+```
+
+## Step 2: Install
+
+```bash
+npm install prompt-sync
+
+```
+
+## Step 3: Import and Use
+
+```bash
+const prompt = require('prompt-sync')();
+
+```
+
+---
+
 ## 📂 Function
 
 | Question No. | File Name     | Description                                           |
