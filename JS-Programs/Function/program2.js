@@ -27,14 +27,3 @@ function largestNumber() {
 }
 largestNumber()
 
-
-// With Method 
-function largestNumber() {
-
-    let arr = [10, 20, 30, 40, 50, 60, 70, 80, 90, 100];
-    let largest = Math.max(...arr)
-
-    console.log(largest);
-    
-}
-largestNumber()
