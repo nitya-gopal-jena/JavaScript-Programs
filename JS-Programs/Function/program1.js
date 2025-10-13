@@ -6,12 +6,14 @@
 */
 
 
+// Import prompt-sync package to work with prompt() in Node.js environment.
+const prompt = require('prompt-sync')();
 
 function nonRepeatingElement() {
+    let arr = prompt('Enter array element separated by commas: ');
+    arr = arr.split(',').map(Number)
 
-    let arr = [4, 5, 1, 2, 4, 1, 5,];
-
-    for (let i = 0; i < arr.length; i++) { 
+    for (let i = 0; i < arr.length; i++) {
 
         let currentElement = arr[i];
         let duplicateElement = false;

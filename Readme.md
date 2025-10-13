@@ -1,4 +1,4 @@
-# 📁 JS-Program
+# 📁 JS-Programs
 
 This repository contains JavaScript practice programs organized by topic. Below is the structure and description of each file inside the each folder.
 
