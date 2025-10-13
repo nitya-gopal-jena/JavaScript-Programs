@@ -34,7 +34,7 @@ const prompt = require('prompt-sync')();
 ```
 
 
-If you don't want to use prompt-sync in Node.js, you can achieve similar functionality directly in a browser using the built-in prompt() function inside an HTML file.
+### If you don't want to use prompt-sync in Node.js, you can achieve similar functionality directly in a browser using the built-in prompt() function inside an HTML file.
 
 ```bash
 
@@ -46,7 +46,7 @@ If you don't want to use prompt-sync in Node.js, you can achieve similar functio
 <body>
   <script>
     // JavaScript Code 
-    
+
     const name = prompt("What's your name?");
     alert(`Hello, ${name}!`);
   </script>
@@ -56,11 +56,8 @@ If you don't want to use prompt-sync in Node.js, you can achieve similar functio
 
 ```
 
+
 ---
-
-
-
-
 
 
 
